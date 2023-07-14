@@ -5,7 +5,7 @@ This is a Connect4 game implemented in Java as part of the Principles of Program
 ## Requirements
 To run the game, ensure you have Java 17 installed. You can use any Integrated Development Environment (IDE) for development, but the code must run on Java 17 without requiring additional libraries or programs.
 
-## Getting Started
+## Getting Started
 
 1. Clone or download the Connect4 repository from the Moodle platform.
 
