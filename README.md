@@ -1,4 +1,4 @@
-# Connect4 Game
+# Connect4 Game
 
 This is a Connect4 game implemented in Java as part of the Principles of Programming 1 coursework. The game allows a human player to play against a computer player on a 6x7 grid. The goal of the game is to connect four tokens either diagonally, horizontally, or vertically.
 
